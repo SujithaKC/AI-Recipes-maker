@@ -3,6 +3,7 @@
 *.log
 *.pyc
 *.swp
+*.env
 .DS_Store
 .atom/
 .build/
@@ -16,7 +17,7 @@ migrate_working_dir/
 *.iml
 *.ipr
 *.iws
-.env
+*.env
 .idea/
 
 # The .vscode folder contains launch configuration and tasks you configure in
