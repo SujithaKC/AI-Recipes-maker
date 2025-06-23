@@ -3,7 +3,7 @@
 *.log
 *.pyc
 *.swp
-*.env
+
 .DS_Store
 .atom/
 .build/
@@ -17,7 +17,6 @@ migrate_working_dir/
 *.iml
 *.ipr
 *.iws
-*.env
 .idea/
 
 # The .vscode folder contains launch configuration and tasks you configure in
@@ -46,5 +45,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-
+# Environment
 .env
